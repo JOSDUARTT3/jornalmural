@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(6, 6, 70);
+}
+header{
+    text-align: right;
+    background-color: rgb(5, 5, 129);
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    color:white;
+}
+a:hover{
+    background-color:rgb(216, 243, 234);
+    padding: 10px;
+    border-radius: 20px;
+    transition: .4s ease-in-out;
+}
+p{
+    margin-top: 20px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+}
+main{
+    background-color: lightcyan;
+border-radius: 10px;
+margin: 10px;
+
+}
